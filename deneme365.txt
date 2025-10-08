@@ -1,1 +1,2 @@
-print("patates");
+patates("print")
+#bu kod dünyanın en iyi oyunlarının yapımında kullanılır.
